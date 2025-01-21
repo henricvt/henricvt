@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Estudando Engenharia Elétrica na Universidade Federal de Campina Grande.
-- 🌱 Aprendendo mais sobre Controle e Automação (Embedded Systems).
+- 🌱 Aprendendo mais sobre Controle e Automação (Sistemas Embarcados).
 
 ## Minhas Skills
 
