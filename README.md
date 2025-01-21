@@ -7,7 +7,7 @@
 
 ## Minhas Skills
 
-**Atualmente estou aprendendo mais sobre as seguintes linguagens:**
+**Atualmente estou desenvolvendo minhas habilidades nas seguintes linguagens:**
 
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
