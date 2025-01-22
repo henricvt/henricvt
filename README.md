@@ -2,13 +2,18 @@
 
   ## Hello World!👋 I'm Luiz Henrique
 
-</div>                      
+                      
  
   
-  - 🎓 Studying Electrical Engineer at Federal University of Campina Grande (2/8)
-  - 💡  I'm instersted in Control and Automation
+  - 🎓 Studying Electrical Engineer at Federal University of Campina Grande
+  - 💡  I'm insterested in Control and Automation
   - 📚 Learning more about Embedded Systems
+ 
+  <div align="center">
+  
   ## My Skills
+ 
+   
   
   **Currently, i'm looking for improving my knowledge about these progamming languages:**
   
