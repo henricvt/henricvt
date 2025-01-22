@@ -1,6 +1,10 @@
-## Olá!👋 Eu me chamo Luiz Henrique Cavalcanti
+<div align="center">
 
-  ## Sobre mim
+  ## Olá!👋 Eu me chamo Luiz Henrique Cavalcanti
+
+</div>                      
+ 
+ ## Sobre mim
   
   - 🎓 Estudando Engenharia Elétrica na Universidade Federal de Campina Grande (2/8).
   - 🌱 Aprendendo mais sobre Controle e Automação (Sistemas Embarcados).
