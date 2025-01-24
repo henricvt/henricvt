@@ -17,7 +17,7 @@
   
   **Currently, i'm looking for improving my knowledge about these progamming languages:**
   
-  ![C/C++ Badge](https://img.shields.io/badge/C%2F%C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![MicroPython Badge](https://img.shields.io/badge/MicroPython-2B2B2B?style=for-the-badge&logo=micropython&logoColor=white)
   ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
