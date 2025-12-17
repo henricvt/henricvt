@@ -6,8 +6,8 @@
  
   
   - 🎓 Studying Electrical Engineer at Federal University of Campina Grande (UFCG)
-  - 💡  I'm insterested in Robotics and Electronics
-  - 📚 Learning more about Microcontrollers and Smart Sensing
+  - 💡  I'm insterested in Robotics and Microelectronics
+  - 📚 Learning more about Microcontrollers and Robot's Trajectory Tracking
  
   <div align="center">
   
