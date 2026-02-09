@@ -5,7 +5,7 @@
                       
  
   
-  - 🎓 Studying Electrical Engineer at Federal University of Campina Grande (UFCG)
+  - 🎓 Studying Electrical Engineering at Federal University of Campina Grande (UFCG)
   - 💡  I'm insterested in Embedded Systems
   - 📚 Learning more about Microcontrollers and Robot's Trajectory Tracking
  
