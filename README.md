@@ -15,12 +15,14 @@
  
    
   
-  **Currently, i'm looking for improving my knowledge about these progamming languages:**
+  **Currently, i'm looking for improving my knowledge about:**
   
   ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![MicroPython Badge](https://img.shields.io/badge/MicroPython-2B2B2B?style=for-the-badge&logo=micropython&logoColor=white)
-  ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![MATLAB](https://img.shields.io)
+  
 
   ## My contacts
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henricvt)
