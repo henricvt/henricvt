@@ -6,7 +6,7 @@
  
   
   - 🎓 Studying Electrical Engineering at Federal University of Campina Grande (UFCG)
-  - 💡  I'm insterested in Embedded Systems
+  - 💡  I'm insterested in Embedded Systems and Digital Signal Processing
   - 📚 Learning more about Microcontrollers
  
   <div align="center">
